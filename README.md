@@ -1,4 +1,3 @@
-
 # JavaScript projects
 
 List of all my web apps made using with only Javascript or jQuery
@@ -13,3 +12,6 @@ List of all my web apps made using with only Javascript or jQuery
 
 [CarCrash](https://github.com/rohithVR101/CarCrash) - Three parallel lane roads with blue cars coming top to bottom of the screen able to notify if they crash with red cars in the opposite direction that are brought by clicking on any lane using vannila JavaScript.
 
+[Image Gallery](https://github.com/rohithVR101/Gallery) - An image gallery page created with vanilla JavaScript, HTML, CSS with images from 10 different websites all resized to 40x40 px size without losing aspect ratio.
+
+[Testimonials](https://github.com/rohithVR101/Testimonials) - A simple Testimonials page created with Bootstrap 4.
